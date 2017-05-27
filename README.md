@@ -9,6 +9,6 @@ In this; No login required ; Go to Twitter link: https://apps.twitter.com/ and c
 
 Get the Consumer Key (API Key)	and Consumer Secret (API Secret)	; 
 
-Go into Constant.Swift and chage the Key Values with your Key ## Don't Forget to Do This ##
+Go into Constant.Swift and change the Key Values with your Key ## Don't Forget to Do This ##
 
 Enjoy the Code; Cheers !!!!!!
